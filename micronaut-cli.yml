@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, aws-parameter-store, aws-secrets-manager, config-consul, consul, discovery-consul, gradle, http-client, jackson-xml, jdbc-hikari, jrebel, kafka, kotest, kotlin, kotlin-application, log4j2, management, micrometer, micrometer-datadog, micrometer-prometheus, mysql, netty-server, problem-json, properties, rabbitmq, readme, shade, testcontainers, tracing-jaeger]
